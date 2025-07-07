@@ -26,9 +26,9 @@ This app is designed to digitally record cleanliness inspection data for trains 
 
   ## 🔑 Key Features Implemented
 
-Tabbed UI (TabBarView)
-Clean and structured layout using ListView, Card, and TextFormField
-Scoring UI using Radio Buttons from 0 to 10
-Form field validation for mandatory fields
-Responsive UI for mobile devices
+- Tabbed UI (TabBarView)
+- Clean and structured layout using ListView, Card, and TextFormField
+- Scoring UI using Radio Buttons from 0 to 10
+- Form field validation for mandatory fields
+- Responsive UI for mobile devices
    
