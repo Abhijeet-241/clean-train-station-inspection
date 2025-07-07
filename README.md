@@ -9,7 +9,9 @@ This app is designed to digitally record cleanliness inspection data for trains 
 - **Basic Info Form** (Train No, Station, Date, Inspector, Time of Inspection , contractor name , number of Coaches)
 - **Coach Scores Tab**m (Rating cleanliness in Toilet and Doorways Areas and Vestibule areass from 0-10)
 - **Platform Return Activities Tab** (Rating cleanliness parameters from 0–10)
-- ** Payment Activites 
+- **Payment Activites ** (Payment Schedule Activities P101 ,P102,P103-P113 with Remarks)
+- ** Resources ** (Chemicals,Tools & Eqipments, Staff Details)
+- ** Summary ** (Review your inspection data before submitting)
 
 ---
 
